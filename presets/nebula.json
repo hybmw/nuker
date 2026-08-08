@@ -1,0 +1,9 @@
+{
+    "new_name": "Nebula deadlands",
+    "channel_prefix": "server nuked by Nebula☠",
+    "channel_amount": 80,
+    "spam_msg": "@everyone @here server nuked by Nebula",
+    "spam_count": 4000,
+    "role_prefix": "roles fucked by Nebulal",
+    "role_amount": 120
+}
